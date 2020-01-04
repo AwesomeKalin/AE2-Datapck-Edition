@@ -1,0 +1,9 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/knowledge_book"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1}, "model": "item/knowledge_book/1" }
+	]
+}

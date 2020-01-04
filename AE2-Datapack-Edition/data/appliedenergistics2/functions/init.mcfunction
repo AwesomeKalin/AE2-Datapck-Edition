@@ -1,0 +1,1 @@
+function appliedenergistics:items/certus_quartz_crystal/init
