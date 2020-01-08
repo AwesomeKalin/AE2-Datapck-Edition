@@ -1,6 +1,31 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "items/certus_quartz_hoe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [4.25, 5.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [5.25, 5, 0],
+			"scale": [-1, 1, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -84, 0],
+			"translation": [1, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -86, 0],
+			"translation": [0.75, 1.25, 0],
+			"scale": [-1, 1, 1]
+		},
+		"ground": {
+			"translation": [2, 2.5, -3.75]
+		},
+		"fixed": {
+			"scale": [-1.2, 1.2, 1.2]
+		}
 	}
 }
