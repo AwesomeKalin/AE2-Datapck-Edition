@@ -1,0 +1,1 @@
+give @s minecraft:iron_ingot{"CustomModelData":167385,"display":{"Name":"{\"text\":\"Certus Quartz Crystal\",\"italic\":false}"}} 1

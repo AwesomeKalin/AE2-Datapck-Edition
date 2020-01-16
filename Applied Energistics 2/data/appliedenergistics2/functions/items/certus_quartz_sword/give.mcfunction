@@ -1,0 +1,1 @@
+give @s minecraft:iron_sword{"CustomModelData":167386,"display":{"Name":"{\"text\":\"Certus Quartz Sword\",\"italic\":false}"}} 1
